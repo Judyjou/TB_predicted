@@ -1,0 +1,2 @@
+Normal probability: 0.9964386
+Tuberculosis probability: 0.003561409
