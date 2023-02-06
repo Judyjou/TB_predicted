@@ -1,0 +1,49 @@
+
+  .bgm-pic{
+    margin: 0px;
+    padding: 0px;
+    background: url(../static/TB_bgm.png),rgba(0, 0, 0, 0.3) center center fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #e9f8ff;
+  }
+
+  ul li{
+    display: inline;
+  }
+  .bgc_account {
+    background-color: #0f050229;
+  }
+  .upperImg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  img{
+    width: 35%;
+  }
+  .sampleImg{
+    margin: 10px;
+  }
+  .upLoadImg {
+    height: 6rem;
+    width: 6rem;
+    border: 2px #000 dashed;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;  
+    margin: 5%;    
+  }
+  #sampleImg3{
+    width: 174px;
+    height: 100%;
+  }
+  #text{
+    font-size: large;
+  }
+  #showimg{
+    display: flex;
+    justify-content: center;
+    margin-left: 32%;
+    margin-bottom:5% ;
+  }
