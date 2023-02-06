@@ -1,0 +1,21 @@
+2022-11-23 14:29:46,814 - [app.py:45] - ERROR <class 'str'> 
+2022-11-23 14:29:46,825 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-23 14:29:52,429 - [app.py:58] - ERROR Normal probability: 0.00023032744Tuberculosis probability: 0.9997696 
+2022-11-23 14:32:29,680 - [app.py:45] - ERROR <class 'str'> 
+2022-11-23 14:32:29,689 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-23 14:32:35,238 - [app.py:58] - ERROR Normal probability: 0.9840344Tuberculosis probability: 0.015965577 
+2022-11-23 14:35:30,289 - [app.py:45] - ERROR <class 'str'> 
+2022-11-23 14:35:30,299 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-23 14:35:35,732 - [app.py:58] - ERROR Normal probability: 0.9840344Tuberculosis probability: 0.015965577 
+2022-11-23 14:40:35,343 - [app.py:45] - ERROR <class 'str'> 
+2022-11-23 14:40:35,348 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-23 14:40:43,319 - [app.py:58] - ERROR Normal probability: 0.9991819Tuberculosis probability: 0.00081800215 
+2022-11-23 14:53:46,883 - [app.py:42] - ERROR <class 'str'> 
+2022-11-23 14:53:46,884 - [app.py:47] - ERROR <class '_io.BytesIO'> 
+2022-11-23 14:53:49,025 - [app.py:58] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 53, in save_img
+    result = predict_mainPart()
+  File "D:\TB_py\dl_in_prod\predictFunction.py", line 60, in predict_mainPart
+    sys.exit(0)
+SystemExit: 0
+ 

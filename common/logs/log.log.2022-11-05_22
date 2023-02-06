@@ -1,0 +1,110 @@
+2022-11-05 20:26:27,404 - [app.py:42] - ERROR START 
+2022-11-05 20:26:27,411 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 20:26:27,420 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 20:26:56,120 - [app.py:42] - ERROR START 
+2022-11-05 20:26:56,127 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 20:26:56,137 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 20:27:14,714 - [app.py:42] - ERROR START 
+2022-11-05 20:27:14,732 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 20:27:14,758 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 20:32:12,528 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 20:32:12,553 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 20:46:17,467 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 20:46:17,472 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 20:53:26,349 - [app.py:61] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 44, in save_img
+    b64_img_string = json_data['img']
+TypeError: 'NoneType' object is not subscriptable
+ 
+2022-11-05 20:53:26,374 - [app.py:61] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 44, in save_img
+    b64_img_string = json_data['img']
+TypeError: 'NoneType' object is not subscriptable
+ 
+2022-11-05 20:56:13,986 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 20:56:13,996 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 20:57:49,287 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 20:57:49,296 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:01:56,945 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:01:56,955 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:02:06,742 - [app.py:58] - ERROR Normal probability: 0.00023032744Tuberculosis probability: 0.9997696 
+2022-11-05 21:08:36,758 - [app.py:62] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 44, in save_img
+    b64_img_string = json_data['img']
+TypeError: 'NoneType' object is not subscriptable
+ 
+2022-11-05 21:08:36,767 - [app.py:62] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 44, in save_img
+    b64_img_string = json_data['img']
+TypeError: 'NoneType' object is not subscriptable
+ 
+2022-11-05 21:09:44,034 - [app.py:62] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 44, in save_img
+    b64_img_string = json_data['img']
+TypeError: 'NoneType' object is not subscriptable
+ 
+2022-11-05 21:09:44,045 - [app.py:62] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 44, in save_img
+    b64_img_string = json_data['img']
+TypeError: 'NoneType' object is not subscriptable
+ 
+2022-11-05 21:13:12,569 - [app.py:62] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 44, in save_img
+    b64_img_string = json_data['img']
+TypeError: 'NoneType' object is not subscriptable
+ 
+2022-11-05 21:13:12,581 - [app.py:62] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 44, in save_img
+    b64_img_string = json_data['img']
+TypeError: 'NoneType' object is not subscriptable
+ 
+2022-11-05 21:17:34,786 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:17:34,796 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:17:44,604 - [app.py:58] - ERROR Normal probability: 0.00023032744Tuberculosis probability: 0.9997696 
+2022-11-05 21:18:53,377 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:18:53,386 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:18:58,950 - [app.py:58] - ERROR Normal probability: 0.00023032744Tuberculosis probability: 0.9997696 
+2022-11-05 21:19:57,469 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:19:57,473 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:20:00,911 - [app.py:58] - ERROR Normal probability: 0.9976567Tuberculosis probability: 0.0023432772 
+2022-11-05 21:27:01,281 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:27:01,291 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:27:06,821 - [app.py:58] - ERROR Normal probability: 0.9840344Tuberculosis probability: 0.015965577 
+2022-11-05 21:27:45,398 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:27:45,408 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:27:50,888 - [app.py:58] - ERROR Normal probability: 0.00023032744Tuberculosis probability: 0.9997696 
+2022-11-05 21:29:53,247 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:29:53,256 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:29:58,731 - [app.py:58] - ERROR Normal probability: 0.00023032744Tuberculosis probability: 0.9997696 
+2022-11-05 21:30:33,526 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:30:33,536 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:30:39,042 - [app.py:58] - ERROR Normal probability: 0.00023032744Tuberculosis probability: 0.9997696 
+2022-11-05 21:30:54,616 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:30:54,619 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:30:56,437 - [app.py:58] - ERROR Normal probability: 0.96568733Tuberculosis probability: 0.03431268 
+2022-11-05 21:31:03,602 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:31:03,612 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:31:08,898 - [app.py:58] - ERROR Normal probability: 0.9840344Tuberculosis probability: 0.015965577 
+2022-11-05 21:56:11,958 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:56:11,968 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:57:55,387 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:57:55,412 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:57:55,498 - [app.py:62] - ERROR Traceback (most recent call last):
+  File "D:\TB_py\dl_in_prod\app.py", line 56, in save_img
+    img.save(target_path)
+  File "D:\anaconda3\envs\tensorflow-gpu\lib\site-packages\PIL\Image.py", line 2237, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'D:\\TB_py\\dl_in_prod\\static\\image\\CHNCXR0001_0.png'
+ 
+2022-11-05 21:59:13,203 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:59:13,228 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:59:25,676 - [app.py:58] - ERROR Normal probability: 0.99643886Tuberculosis probability: 0.0035611447 
+2022-11-05 21:59:37,062 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 21:59:37,070 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 21:59:42,375 - [app.py:58] - ERROR Normal probability: 0.9840344Tuberculosis probability: 0.015965577 
+2022-11-05 22:05:16,976 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 22:05:17,001 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 22:05:29,205 - [app.py:58] - ERROR Normal probability: 0.99643886Tuberculosis probability: 0.0035611447 
+2022-11-05 22:05:41,046 - [app.py:45] - ERROR <class 'str'> 
+2022-11-05 22:05:41,050 - [app.py:50] - ERROR <class '_io.BytesIO'> 
+2022-11-05 22:05:44,453 - [app.py:58] - ERROR Normal probability: 0.9976567Tuberculosis probability: 0.0023432772 
